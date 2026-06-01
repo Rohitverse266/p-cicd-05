@@ -1,0 +1,10 @@
+sonar.projectKey=p-cicd-05
+sonar.projectName=p-cicd-05
+sonar.projectVersion=1.0
+
+sonar.sources=src/main
+sonar.tests=src/test
+
+sonar.sourceEncoding=UTF-8
+
+sonar.java.binaries=target/classes
